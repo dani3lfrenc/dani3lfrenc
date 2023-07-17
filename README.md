@@ -8,7 +8,7 @@
 ### <div align="center">I'm Daniel Franchini, a cybersecurity student and amateur developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Steganography](https://github.com/dani3lfrenc/SnakeSFTP)  
+- 🔭 I’m currently working on [SnakeSFTP](https://github.com/dani3lfrenc/SnakeSFTP)  
   
 
 - 🌱 I’m currently learning Python and Java  
