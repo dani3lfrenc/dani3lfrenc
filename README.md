@@ -1,3 +1,5 @@
+# Welcome to Daniel's Profile!
+
 <br clear="both">
 
 <div align="center">
@@ -5,6 +7,8 @@
 </div>
 
 ###
+
+---
 
 - 👯 I’m looking to collaborate on **EVE-NG**
 - 🌱 I’m currently learning **EVE-NG**
