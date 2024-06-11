@@ -55,10 +55,6 @@
 
 <div align="center">
 <a href="https://github.com/dani3lfrenc">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dani3lfrenc&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dani3lfrenc&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dani3lfrenc&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dani3lfrenc&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dani3lfrenc&theme=github_dark" height="180em" />
 </div>
 
