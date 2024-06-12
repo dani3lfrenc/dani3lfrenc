@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **EVE-NG**
 - 🌱 I’m currently learning **BASH**
 - 📫 How to reach me **danielfranchini@virgilio.com**
-- ⚡ Fun fact **Trying to create something that works the first time**
+- ⚡ What I'm doing: **Trying to create something that works the first time**
 
 ###
 
