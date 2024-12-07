@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **EVE-NG**
 - 🌱 I’m currently learning **BASH**
-- 📫 How to reach me **danielfranchini@virgilio.com**
+- 📫 How to reach me **danielfranchini@virgilio.it**
 - ⚡ What I'm doing: **Trying to create something that works the first time**
 
 ###
