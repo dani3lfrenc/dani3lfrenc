@@ -1,62 +1,79 @@
-<h1 align="center" > Welcome to Daniel's Profile! </h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=180&section=header&text=Daniel%20Franchini&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Network%20Engineer&descAlignY=58&descSize=16" />
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-</div>
-
-###
+<!-- Typing -->
+<p align="center">
+  <a href="https://github.com/dani3lfrenc">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;Daniel+%E2%80%94+Computer+Engineering+student;Part-time+Network+Engineer;Building+labs+on+EVE-NG;Automating+networks+with+Python+%26+Ansible;Trying+to+make+it+work+the+first+time..." alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-- 👯 I’m looking to collaborate on **EVE-NG**
-- 🌱 I’m currently learning **BASH**
-- 📫 How to reach me **danielfranchini@virgilio.it**
-- ⚡ What I'm doing: **Trying to create something that works the first time**
+### `> cat about.txt`
 
-###
+```bash
+name     = "Daniel"
+study    = "B.Sc. Computer Engineering @ University of Trento — 2nd year"
+work     = "Network Engineer (part-time)"
+focus    = ["Networking", "SysAdmin", "Cybersecurity", "Automation"]
+learning = "Bash scripting"
+collab   = "EVE-NG labs & tooling"
+motto    = "Trying to create something that works the first time"
+```
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-</div>
+---
 
-###
+### `> history | grep experience`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dani3lfrenc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=dani3lfrenc&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+```text
+[now]   Network Engineer (part-time)
+[prev]  Cybersecurity Intern   @ FBK — Fondazione Bruno Kessler  · Trento
+[prev]  System Engineer Intern @ NTS Italy                       · Bolzano
+```
 
+---
 
+### `> ls ./projects`
 
+| Project | Description | Stack |
+|---|---|---|
+| 🎬 [**YTVideoDownloader**](https://github.com/dani3lfrenc/YTVideoDownloader) | Download YouTube videos straight from the macOS menu bar | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🧪 [**os-tuning-eve-ng**](https://github.com/dani3lfrenc/os-tuning-eve-ng) | OS tuning for EVE-NG lab environments | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🐍 [**SnakeSFTP**](https://github.com/dani3lfrenc/SnakeSFTP) | SFTP client written in Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 📊 [**sysUsage**](https://github.com/dani3lfrenc/sysUsage) | Real-time system information monitor | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🧰 [**SysAdmin-Toolkit**](https://github.com/dani3lfrenc/SysAdmin-Toolkit) | Handy scripts for everyday sysadmin tasks | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) |
 
+---
 
+### `> which tools`
 
-<div align="center">
-<a href="https://github.com/dani3lfrenc">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dani3lfrenc&theme=github_dark" height="180em" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,ansible,linux,ubuntu,raspberrypi,apple,git,github,vscode,html,md&theme=dark&perline=13" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-0d1117?style=for-the-badge&logo=cisco&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/EVE--NG-0d1117?style=for-the-badge&logo=serverfault&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00ff9c" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff9c" />
+</p>
 
+---
 
+### `> ping daniel`
+
+<p align="center">
+  <a href="mailto:danielfranchini@virgilio.it">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=maildotru&logoColor=00ff9c" />
+  </a>
+  <a href="https://github.com/dani3lfrenc">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" />
+</p>
