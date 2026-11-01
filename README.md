@@ -6,7 +6,7 @@
 <!-- Typing -->
 <p align="center">
   <a href="https://github.com/dani3lfrenc">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;Daniel+%E2%80%94+Computer+Engineering+student;Part-time+Network+Engineer;Building+labs+on+EVE-NG;Automating+networks+with+Python;Trying+to+make+it+work+the+first+time..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;Daniel+%E2%80%94+Computer+Engineering+student;Part-time+Network+Engineer;Building+labs+on+EVE-NG;Infrastructure+%26+networking;Trying+to+make+it+work+the+first+time..." alt="Typing SVG" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@ motto    = "Trying to create something that works the first time"
 ### `> which tools`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,ts,bash,powershell,linux,ubuntu,raspberrypi,apple,git,github,vscode,html,md&theme=dark&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,c,ts,bash,powershell,ansible,linux,ubuntu,raspberrypi,apple,git,github,vscode,html,md&theme=dark&perline=15" />
 </p>
 
 <p align="center">
