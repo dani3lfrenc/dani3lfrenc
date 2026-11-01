@@ -66,7 +66,7 @@ motto    = "Trying to create something that works the first time"
 ### `> ping daniel`
 
 <p align="center">
-  <a href="mailto:danielfranchini@virgilio.it">
+  <a href="mailto:danielfranchini36@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=maildotru&logoColor=00ff9c" />
   </a>
   <a href="https://github.com/dani3lfrenc">
