@@ -40,18 +40,18 @@ motto    = "Trying to create something that works the first time"
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎬 [**YTVideoDownloader**](https://github.com/dani3lfrenc/YTVideoDownloader) | Download YouTube videos straight from the macOS menu bar | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🧰 [**SysAdmin-Toolkit**](https://github.com/dani3lfrenc/SysAdmin-Toolkit) | PowerShell scripts for Active Directory: onboarding, auditing, hardening | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) |
 | 🧪 [**os-tuning-eve-ng**](https://github.com/dani3lfrenc/os-tuning-eve-ng) | OS tuning for EVE-NG lab environments | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 🐍 [**SnakeSFTP**](https://github.com/dani3lfrenc/SnakeSFTP) | SFTP client written in Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | 📊 [**sysUsage**](https://github.com/dani3lfrenc/sysUsage) | Real-time system information monitor | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 🧰 [**SysAdmin-Toolkit**](https://github.com/dani3lfrenc/SysAdmin-Toolkit) | Handy scripts for everyday sysadmin tasks | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) |
+| 📦 [**modbox**](https://github.com/dani3lfrenc/modbox) | Mods for Claude Code: an activity pane and a PowerShell/Bash syntax guard | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| 🐍 [**SnakeSFTP**](https://github.com/dani3lfrenc/SnakeSFTP) | SFTP client written in Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 ---
 
 ### `> which tools`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,ansible,linux,ubuntu,raspberrypi,apple,git,github,vscode,html,md&theme=dark&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,c,ts,bash,powershell,ansible,linux,ubuntu,raspberrypi,apple,git,github,vscode,html,md&theme=dark&perline=15" />
 </p>
 
 <p align="center">
